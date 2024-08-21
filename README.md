@@ -1,7 +1,3 @@
-Claro! Aqui está uma proposta de formatação do texto para um README do GitHub:
-
----
-
 # Trabalho Prático – Etapa 3 – Implementação em SQL
 
 ## Universidade Federal de Lavras (UFLA)
